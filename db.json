@@ -23,5 +23,7 @@
       "borrowed": false
     }
   ],
-  "borrow": []
+  "borrow": [],
+  "users": [],
+  "blogs": []
 }
